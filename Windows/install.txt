@@ -1,0 +1,56 @@
+	ninite
+	Chrome
+	Gimp/Paint.net
+	Steam
+	Everything
+	Zoom
+	Discord
+	7Zip
+	Winrar
+	VLC
+	Audacity
+	Spotify
+	Teamviewer
+	Windirstat
+	Superanti Spyware
+	Python3 x64
+	Notepad++
+	Winmerge
+	VSCode
+	
+MS Office
+Adobe Acrobat
+LibreOffice for PDF editor
+Printer Drivers
+Messenger	
+HWInfo
+
+Carleton VPN
+
+Git
+Powershell 7
+Windows Terminal
+WSL
+WSL gui
+	https://learn.microsoft.com/en-us/windows/wsl/tutorials/gui-apps
+	nautilus
+	x11
+	gedit
+	
+	Powershell
+		wsl --install; wsl --update; wsl --shutdown;
+	WSL:
+		sudo apt-get update -y; sudo apt-get dist-upgrade -y; sudo apt-get autoremove -y; sudo apt-get clean -y; sudo apt install x11-apps -y; sudo apt install nautilus -y; sudo apt install gedit -y; 
+	Zsh
+		sudo apt-get install zsh -y;
+		
+		zsh --version
+			expect 5.x
+		
+		chsh -s $(which zsh)
+		
+		echo $SHELL
+			expect /usr/bin/zsh
+		$SHELL --version
+			expect 5.0.8 or newer
+		

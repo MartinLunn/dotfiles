@@ -1,0 +1,7 @@
+#Martin's aliases
+alias updg='sudo apt-get update -y; sudo apt-get dist-upgrade -y; sudo apt-get autoremove -y; sudo apt-get clean -y;'
+alias upgd='sudo apt-get update -y; sudo apt-get dist-upgrade -y; sudo apt-get autoremove -y; sudo apt-get clean -y;'
+
+alias gts='cd /mnt/c/Users/Martin/Documents/University/Q_Winter_2023'
+
+alias autostow='stow -t ~/.'
